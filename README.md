@@ -1,5 +1,4 @@
-# CineFlix
-## A Movie Recommender System
+# 🎬CineFlix
 
 A content-based movie recommendation system built using NLP techniques (Bag of Words, TF-IDF, and Word2Vec), trained on the TMDB 5000 Movies Dataset, and deployed using **Streamlit**.
 
@@ -79,5 +78,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Demo
 [CineFlix](https://cineflix.streamlit.app/)
+
+- <img width="1859" height="852" alt="image" src="https://github.com/user-attachments/assets/d7032e43-bce0-4772-999c-050f8845e78f" />
+- <img width="1794" height="847" alt="image" src="https://github.com/user-attachments/assets/29132fce-09d2-4d91-af83-a99455f6bd18" />
 
 
